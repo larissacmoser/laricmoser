@@ -1,5 +1,5 @@
-# laricmoser
-Olá, sou a Larissa Cristina Moser!
+# larissacmoser
+Hey there, I'm Larissa Cristina Moser!
 
 <div align="center">
   <a href="https://github.com/larissacmoser">
