@@ -9,14 +9,14 @@
 
 
 <p align="left">
-  🦄 Meus hobbies: <strong>Gosto de ler sobre os mais diversos assuntos, desenhar, ficar com meus gatos e fazer lettering.</strong>
-  🦄 Minha linguagem de programação favorita: <strong>JavaScript <3 </strong>
+  🦄 Meus hobbies: <strong>Gosto de ler sobre os mais diversos assuntos, desenhar, ficar com meus gatos e fazer lettering.</strong><br>
+  🦄 Minha linguagem de programação favorita: <strong>JavaScript <3 </strong><br>
 </p>
 
 <p align="left">
-  💼 Formação: <strong>Desenvolvedora web full stack em formação pela Growdev.</strong>
-  💼 Experiências profissionais: <strong>Trabalhei já como operadora de telemarketing, onde percebi minha paixão por lidar com o computador. Depois disso, fui bolsista de extensão e de iniciação científica em projetos voltados a comunidade e a questões ambientais. Projetos esses onde obtive destaque com minhas apresentações. No momento, trabalho como auxiliar de laboratório na Serafina, empresa de difusores e velas aromáticas.</strong>
-   💼 O que estudo atualmente: <strong>Nesse momento, estudo HTML5 no programa Growdev e aprendo o idioma francês.</strong>
+  💼 Formação: <strong>Desenvolvedora web full stack em formação pela Growdev.</strong><br>
+  💼 Experiências profissionais: <strong>Trabalhei já como operadora de telemarketing, onde percebi minha paixão por lidar com o computador. Depois disso, fui bolsista de extensão e de iniciação científica em projetos voltados a comunidade e a questões ambientais. Projetos esses onde obtive destaque com minhas apresentações. No momento, trabalho como auxiliar de laboratório na Serafina, empresa de difusores e velas aromáticas.</strong><br>
+   💼 O que estudo atualmente: <strong>Nesse momento, estudo HTML5 no programa Growdev e aprendo o idioma francês.</strong><br>
 </p>
 
 <p align="left">
